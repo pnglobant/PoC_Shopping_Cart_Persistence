@@ -1,6 +1,6 @@
 # Shopping Cart State Management
 
-We successfully created a shopping cart simulating the whole flow that is currently depicted in Figma using Next.js 15/React 19. For this we used the localStorage (or sessionStorage, depending on the need) as a store of sorts. In it we saved all data that was relevant to the flow: 
+We successfully created a shopping cart simulating the whole flow that is currently depicted in Figma using Next.js 15/React 19. Code can be found in [https://github.com/ericmaya8a/merlin-ticket-poc](https://github.com/ericmaya8a/merlin-ticket-poc). For this we used the localStorage (or sessionStorage, depending on the need) as a store of sorts. In it we saved all data that was relevant to the flow: 
 - data related to visit: date of visit, adults/children
 - basket information (summary, total cost, etc)
 - extras selected by user
